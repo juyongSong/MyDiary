@@ -1,2 +1,0 @@
-# MyDiary
-diary app
